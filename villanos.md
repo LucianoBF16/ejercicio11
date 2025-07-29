@@ -1,5 +1,5 @@
 # Villanos
 
 * Dr Doom
-* Coscu
 * Momo
+* Capitan America
